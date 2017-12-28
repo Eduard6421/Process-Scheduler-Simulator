@@ -14,8 +14,11 @@ protected:
 
 private:
     bool initialised = false;
+    static Scheduler* sched_instance;
     Scheduler();
 
 };
+
+
 
 #endif // SCHEDULER_H
