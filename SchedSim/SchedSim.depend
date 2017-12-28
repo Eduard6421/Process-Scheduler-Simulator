@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446667744 source:e:\projects\process-scheduler-simulator\schedsim\main.cpp
+	<iostream>
+
+1514492405 source:e:\projects\process-scheduler-simulator\schedsim\src\process.cpp
+	"Process.h"
+
+1514492446 e:\projects\process-scheduler-simulator\schedsim\include\process.h
+	<string>
+
