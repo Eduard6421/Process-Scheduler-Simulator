@@ -1,18 +1,18 @@
 # depslib dependency file v1.0
-1514496465 source:e:\projects\process-scheduler-simulator\schedsim\main.cpp
+1514500728 source:e:\projects\process-scheduler-simulator\schedsim\main.cpp
+	"process.h"
+	"scheduler.h"
 	<iostream>
 
-1514496570 source:e:\projects\process-scheduler-simulator\schedsim\src\process.cpp
+1514500527 source:e:\projects\process-scheduler-simulator\schedsim\src\process.cpp
 	"Process.h"
 
-1514496621 e:\projects\process-scheduler-simulator\schedsim\include\process.h
-	<string>
+1514500499 e:\projects\process-scheduler-simulator\schedsim\include\process.h
 	<fstream>
+	<string>
 
-1514496636 source:e:\projects\process-scheduler-simulator\schedsim\src\scheduler.cpp
+1514500704 source:e:\projects\process-scheduler-simulator\schedsim\src\scheduler.cpp
 	"Scheduler.h"
 
-1514496646 e:\projects\process-scheduler-simulator\schedsim\include\scheduler.h
-	"Process.h"
-	<vector>
+1514500676 e:\projects\process-scheduler-simulator\schedsim\include\scheduler.h
 

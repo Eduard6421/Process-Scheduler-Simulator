@@ -1,6 +1,7 @@
 #include "Scheduler.h"
 
 Scheduler* Scheduler :: sched_instance = nullptr;
+bool Scheduler :: initialised = false;
 
 Scheduler::Scheduler()
 {
@@ -20,4 +21,9 @@ Scheduler* Scheduler::getInstance()
         initialised = true;
     }
     return Scheduler::sched_instance;
+}
+
+void Scheduler :: setSchedulerType(int scht)
+{
+    scheduler_type = scht;
 }
