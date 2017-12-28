@@ -9,7 +9,7 @@ ofstream out("data.out");
 
 Scheduler* main_controller = nullptr;
 
-void set_scheduler(int scheduler_type)          // 1 = FCFS 2 = SJF 3 = RR
+void set_scheduler(int scheduler_type)
 {
     main_controller = Scheduler::getInstance();
     main_controller->setSchedulerType(scheduler_type);
