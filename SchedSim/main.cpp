@@ -2,8 +2,12 @@
 
 using namespace std;
 
+ifstream in("data.in");
+ofstream out("data.out";)
+
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    Process p;
+    i
 }
+
