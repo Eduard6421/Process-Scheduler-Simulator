@@ -2,8 +2,6 @@
 
 using namespace std;
 
-ifstream in("data.in");
-ofstream out("data.out";)
 
 int main()
 {
