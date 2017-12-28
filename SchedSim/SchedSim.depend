@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1514500728 source:e:\projects\process-scheduler-simulator\schedsim\main.cpp
+1514501881 source:e:\projects\process-scheduler-simulator\schedsim\main.cpp
 	"process.h"
 	"scheduler.h"
 	<iostream>
@@ -14,5 +14,7 @@
 1514500704 source:e:\projects\process-scheduler-simulator\schedsim\src\scheduler.cpp
 	"Scheduler.h"
 
-1514500676 e:\projects\process-scheduler-simulator\schedsim\include\scheduler.h
+1514501851 e:\projects\process-scheduler-simulator\schedsim\include\scheduler.h
+	"process.h"
+	<vector>
 

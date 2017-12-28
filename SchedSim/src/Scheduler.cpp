@@ -27,3 +27,44 @@ void Scheduler :: setSchedulerType(int scht)
 {
     scheduler_type = scht;
 }
+
+void Scheduler :: addProcess(Process tmp)
+{
+    v.push_back(tmp);
+}
+
+void Scheduler :: FCFS()
+{
+
+
+
+
+
+
+
+
+}
+
+
+void Scheduler :: schedule()
+{
+    cpu_utilisation = 100;
+    switch (scheduler_type)
+    {
+    case 0 :
+        FCFS();
+        break;
+    case 1 :
+
+        break;
+    case 2 :
+        break;
+    default :
+        break;
+
+
+    }
+
+
+}
+
