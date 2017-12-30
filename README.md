@@ -9,7 +9,7 @@ Process-Scheduler-Simulator
 
 3)Implement average response time;
 
-4)Implement other schedule algorithms // Round -Robin & Shortest Job Remaning && Priority Scheduling;
+4)Implement other schedule algorithms // Round -Robin & Shortest Job Remaining && Priority Scheduling;
 
 # Things that can and should be done yet they're not our top priority:
 - Keep track of active proceses;
