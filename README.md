@@ -1,5 +1,4 @@
 # Process-Scheduler-Simulator
-Process Scheduler Simulator
 
 Things to do :
 
