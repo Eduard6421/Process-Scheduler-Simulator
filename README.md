@@ -5,7 +5,7 @@ Process-Scheduler-Simulator
 
 1)Implement response time for processes;
 
-2)Implement priorty of processes;
+2)Implement priority of processes;
 
 3)Implement average response time;
 
