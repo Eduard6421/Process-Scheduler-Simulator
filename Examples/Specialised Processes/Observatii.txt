@@ -1,0 +1,35 @@
+FCFS VS SFJ (Date specializate)
+
+
+Few Long Processes ( Start / Last )
+-  FCFS are in general un response time mai bun;
+-  FCFS are un response time mai bun; 
+-  SFJ are un turnaround time mediu mai bun!;
+ 
+
+Alternating Processes
+-  Afirmatiile anterioare se mentin;
+-  Diferente nu foarte mari;
+	
+	
+Few Long Lots of Small
+
+- Diferenta dintre cele doua nu este mare;
+	
+Few Small Lots of Long
+
+- Diferenta dintre cele doua se manifesta puternic;
+
+Increased BTime/IOTime/Duration
+- Diferenta dintre cele doua se manifesta puternic;
+
+	
+	
+	
+ Observatie!
+Este de preferat deci FCFS in cazul in care vrem variatie in procese;
+Este mai rapid un CPU bazat pe SJF pentru aceste cazuri insa procese vor avea starvation;
+
+
+ 
+ 

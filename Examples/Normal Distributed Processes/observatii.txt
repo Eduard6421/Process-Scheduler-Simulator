@@ -1,0 +1,9 @@
+FCFS VS SFJ (Date normalizate)
+- FCFS Turnaround time mai mare decat in cazul SJF;
+- FCFS Resoponse time mai mic;
+- FCFS Waiting time mai mic;
+- FCFS Un numar mai mare de procese care asteapta in medie; 
+ Observatie!
+   Randamentul procesorului este ridicat pentru ambele ( >=95% din timp nu lucreaza);
+   Este posibil ca 5% sa provina din timpul 0 - start_prima_activiate ?   ipoteza - respinsa; Timpul este prea putin procentual;
+   SJF s-a descurcat mai bine decat FCFS in a utiliza resursele procesorului in cazul datelor normale;
